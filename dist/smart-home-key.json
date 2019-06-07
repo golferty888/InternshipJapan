@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "internshipproject-242904",
+  "private_key_id": "7beb345f872c5af5c6da9db8fedbc51f37d7ebf3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5+Ix4xf4aSKSQ\niIrNxPyBuYPyo+3vNc5p2VCdtcMPUlHwesR7hKq0Rx45+dOJ7oFVpEv9uySAFe0O\nDBe0tYhgnejWVaDEij64r4+1buGYgD1VgmqFLzdz7bldQVnmPTSQtF6146kelwnx\n8YCWttPPCWqRhMfX2tY7rnQ71in0mt05dadtZTXCCwXRkEBVFXwDFQ4P/nDqty0k\n0qW5mtx5XxFuPi44CffNAMOB4cuX3dUth01VMcIPY7BAHDTRth+HNAtHWmMZO88R\n9fkpq8scohbADWWmWBMQVCylei2UDfVW+9lxYcangvbnads3vBNXLMZbJWDc5Bcm\nS8lS5xD/AgMBAAECggEAHnADWw0EyXvUO2JYXX9Sg0+VZ1Qp8Dnn6RkhVv6rHfSE\n5rghNRosmkmoNShM1XQiL53ZYNONZiKwjtkEfuuAlleiBoUzRUJfK6PIVeiqUbxu\nIshaniZxNq8qOeIlUEf6NNOLS3fRyT5ClBpzx7catEsVPxtICMM6HGsxfk2kxkd/\nD63pta3faCnF8+v3c4ELX9sP1iu1YYqQ5+YvJ+gk7uiCVjfq4pLElldEguiP/CI/\nE55lmkUHzTg3eZ/Elr3xj2oMsRRJoTLNeKt5wp27mfRN+FTAjBvbbU9b4IBnQ9ri\nl7SnyVE+f8slIvxmaguTNS77OvAktatUzqvofcWOQQKBgQDcVsOdgPaos/zMf5ry\n2evI/nqBR2HqT0icvTaa1QGLWvk+LJh/Dla1uWwT0F1f1nUp0vYp3VKi8flrv2db\nmH1lU5TJwuwwSDNVD823SefkoElEOTLoPtr6bWYDdbAm3dFwrm2G5orXkp4LtPDh\n18c29w7yLq+/gMSBZ12V9UCs4QKBgQDYEdMPirt8j/LarkyzaWDjtUDLnlrO5I9i\nwL+ujyxtAmxyQOrMlB0BuMvONufFkH4xIPMrO5n8juZdYB1rIZCtFySMO3aPCHTq\n/TXPqan99kBWT3M25+uoLGwfsO6abGPOxAU2rMThGlghxtZ3Li/okay9TbReKgrj\np2mwof6Z3wKBgDvG/kMY3dJfIlKIvAzuul1JTQsNxq6+28BKRSo0Z7ra74vCpYyy\n4ytiJsQpX2vEzvyN02MAPI8gfr6QqwXalQqMZm1miJWAwQxuwSzczCDmq3nq2rjP\ndLFERMzjfOrOeyfK6sQSf9CEYoRijod29wEefduOdvfJg4Zn+KfaZbWBAoGBAKz+\n2HYBJcu9lTvxggfDv4eRf6eHyj0MUqFGojIo//Dnl9yCjXvuuqq+Qq+A1mEgJ2k+\ncHOU7N2BrH/mjKdR4Hw1o1WD5pDuvG3I/mSd+zUTDMAOLLkxR0UHDCrzhpatYdwS\npfn4qklwxk+E3AHgQQt8V0naBSe/kahkSgLaMPcRAoGBAINCJ6+AGXdumo7rAeZD\nAvLtNLr1/YkZ1cD41kfVR2NMkmIFYTnA4YxgN8GU1s4BVdymsM2B1XwoM+MZJMWN\nhDu41HENTdd8bcfXbs64UsMsRXJ2iaI66nfIOVWJMOyR+ZzvO+/hRdlFl9ffvQRw\nwxdzbs83J8Os0ASTWC3edwKL\n-----END PRIVATE KEY-----\n",
+  "client_email": "request-sync@internshipproject-242904.iam.gserviceaccount.com",
+  "client_id": "107278001825578836442",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/request-sync%40internshipproject-242904.iam.gserviceaccount.com"
+}
